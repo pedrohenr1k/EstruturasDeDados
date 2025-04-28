@@ -42,10 +42,14 @@ EstruturasDeDados/
 
 > **Obs**: Instale o Python 3.10 ou superior.
 
-## Vídeos Sugeridos
+## Arquivos Sugeridos
 
 - [Documentação Oficial do Python: Estruturas de Dados](https://docs.python.org/pt-br/3.13/tutorial/datastructures.html)
 - [Tipos Embutidos no Python](https://docs.python.org/pt-br/3.13/library/stdtypes.html)
+
+Para melhoria do texto apresentado no README foi utilizado a seguinte ferramenta:
+
+ChatGPT
 
 ## Guia de Contribuição
 
@@ -66,3 +70,7 @@ EstruturasDeDados/
 6. Abra um Pull Request aqui no GitHub.
 
 ---
+
+NOME
+Pedro Henrick Lopes Oliveira
+RGM: 40319946
