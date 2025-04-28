@@ -29,7 +29,7 @@ EstruturasDeDados/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/EstruturasDeDados.git
+   git clone https://github.com/pedrohenr1k/EstruturasDeDados.git
    ```
 2. Acesse a pasta desejada:
    ```bash
@@ -44,7 +44,8 @@ EstruturasDeDados/
 
 ## Vídeos Sugeridos
 
-- [Explicação sobre Listas Encadeadas (YouTube)](#)
+- [Documentação Oficial do Python: Estruturas de Dados](https://docs.python.org/pt-br/3.13/tutorial/datastructures.html)
+- [Tipos Embutidos no Python](https://docs.python.org/pt-br/3.13/library/stdtypes.html)
 
 ## Guia de Contribuição
 
